@@ -3,7 +3,7 @@ git commit -m "커밋 메시지"
 git push
 
 ________________________________________________
-npm create vite@latest my-react-app --template react 
+nreact-apm create vite@latest my-pp --template react 
 
 cd my-react-app 
 
